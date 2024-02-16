@@ -13,3 +13,7 @@ Download stopwatch-cardputer.ino and open it in Arduino IDE. Go to Tools > Board
 
 ## 2nd method
 Go to the Releases tab and download stopwatch-cardputer.bin. Put it on the SD Card, then put the SD Card in your M5Stack Cardputer and launch it from the M5Launcher.
+
+# usage
+- Press any button on the keyboard to start/stop the stopwatch
+- Press BtnGO to reset the stopwatch
